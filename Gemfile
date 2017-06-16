@@ -55,3 +55,4 @@ group :production do
   gem 'pg'
 end
 gem 'kaminari'
+gem 'pry-byebug', group: :development
